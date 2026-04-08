@@ -4,6 +4,8 @@ All notable changes to agent-stuff are documented here.
 
 ## Unreleased
 
+* Replaced the `ghidra` reverse-engineering skill with a new `radare2` skill focused on terminal-first binary analysis.
+
 ## 1.4.0
 
 * Added a prompt editor extension for managing prompt modes (create, rename, delete, and edit), with persistence and detection fixes.

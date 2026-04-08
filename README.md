@@ -12,7 +12,7 @@ All skills live in the [`skills`](skills) folder:
 * [`/apple-mail`](skills/apple-mail) - Search/read Apple Mail local storage and extract attachments.
 * [`/commit`](skills/commit) - Create git commits using concise Conventional Commits-style subjects.
 * [`/frontend-design`](skills/frontend-design) - Design and implement distinctive frontend interfaces.
-* [`/ghidra`](skills/ghidra) - Reverse engineer binaries using Ghidra's headless analyzer.
+* [`/radare2`](skills/radare2) - Reverse engineer binaries with radare2 CLI tooling.
 * [`/github`](skills/github) - Interact with GitHub using the `gh` CLI (issues, PRs, runs, APIs).
 * [`/google-workspace`](skills/google-workspace) - Access Google Workspace APIs via local helper scripts.
 * [`/librarian`](skills/librarian) - Cache and refresh remote git repositories in `~/.cache/checkouts`.
